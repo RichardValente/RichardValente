@@ -1,3 +1,6 @@
+
+ ![CABEÇALHO](https://github.com/RichardValente/RichardValente/assets/106706062/c780f866-e929-411a-b548-04902b9f523d)
+
 ## Bem-vindo(a) ao meu Perfil 😁
 
  <div>
@@ -20,4 +23,5 @@
   <a href = "mailto:rlvalente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-valente-57090b22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
