@@ -1,7 +1,12 @@
+<h1>
+ ## Bem-vindo(a) ao meu Perfil 😁
+</h1>
 
- ![CABEÇALHO](https://github.com/RichardValente/RichardValente/assets/106706062/c780f866-e929-411a-b548-04902b9f523d)
-
-## Bem-vindo(a) ao meu Perfil 😁
+<h4> Me Chamo Richard Lima Valente, sou formado em Adminsitração de Empresas e atualmente estou estudando para mudar de carreira.</h4>
+<p> O mundo da programação sempre me facinou, e hoje vejo o erro que cometi, quando jovem, de seguir nessa carreira. <br> 
+Estou estudando, inicialmente para me tornar um front-end e aqui no Github você encontrará algumas práticas de cursos e aulas online do youtube.
+</p>
+ 
 
  <div>
    <a href="https://github.com/RichardValente">
